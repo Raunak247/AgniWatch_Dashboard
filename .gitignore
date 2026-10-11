@@ -1,0 +1,13 @@
+# Credentials & Secrets
+.env
+.streamlit/secrets.toml
+secrets.toml
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Streamlit Cache
+.streamlit/cache/
